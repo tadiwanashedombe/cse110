@@ -1,4 +1,4 @@
-with open("python/web_traffic.csv") as web_file:
+with open("web_traffic.csv") as web_file:
     total_time = 0
     for line in web_file:
 
